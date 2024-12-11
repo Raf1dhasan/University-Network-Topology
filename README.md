@@ -20,6 +20,10 @@ The **University Network Topology** is a visual representation of a university's
   - Centralized servers for email, DNS, FTP, and web hosting.
 - **Security Configurations**:
   - Console and SSH passwords for routers and switches.
+ 
+## Screenshots
+
+![Home Page](ss5.png)
 
 ## Network Details
 
